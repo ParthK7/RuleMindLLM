@@ -1,0 +1,2 @@
+Langchain document loaders:- https://python.langchain.com/v0.1/docs/modules/data_connection/document_loaders/pdf/
+Langchain text splitters:- https://python.langchain.com/v0.1/docs/modules/data_connection/document_transformers/
